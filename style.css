@@ -1,0 +1,28 @@
+.ansver{
+  width: 400px;
+height: 400px;
+margin: 20px;
+position: relative;
+}
+
+
+body{
+  background-color: PeachPuff;
+}
+
+
+#first_ans{
+  border: 1px solid black;
+
+
+}
+#second_ans{
+    border: 1px solid black;
+
+}
+#third_ans{
+    border: 1px solid black;
+}
+#text{
+   font-size: 15pt;
+}
